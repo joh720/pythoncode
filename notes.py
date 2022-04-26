@@ -44,5 +44,3 @@ This section will be for udemy learning
 ****************************************
 
 """
-
-print(len("95637+12"))
